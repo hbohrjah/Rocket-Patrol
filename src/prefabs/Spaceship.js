@@ -1,3 +1,5 @@
+// Code obtained from CMPM 120 'Rocket Patrol Tutorial'
+
 class Spaceship extends Phaser.GameObjects.Sprite
 {
     constructor(scene, x, y, texture, frame, pointValue)

@@ -1,3 +1,5 @@
+// Code obtained from CMPM 120 'Rocket Patrol Tutorial'
+
 let config= 
 {
     type: Phaser.AUTO,

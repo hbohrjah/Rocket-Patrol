@@ -1,3 +1,5 @@
+// Code obtained from CMPM 120 'Rocket Patrol Tutorial'
+
 class Menu extends Phaser.Scene
 {
     constructor()
